@@ -1,0 +1,16 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+ background:black;
+ color:white;
+ font-family:-apple-system,BlinkMacSystemFont,sans-serif;
+ letter-spacing:-0.02em;
+ cursor:none;
+}
+
+h1,h2,h3{ letter-spacing:-0.04em; }
+
+p{ color:#9ca3af; line-height:1.7; }
